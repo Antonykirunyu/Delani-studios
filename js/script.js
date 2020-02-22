@@ -1,15 +1,15 @@
 $(document).ready(function(){
     $(".click1").click(function(){
-        $("#par1").slideToggle(2100);
+        $("#par1").slideToggle(2500);
         $(".hidden1").slideToggle(2100);
     });
     $(".click2").click(function(){
-        $("#par2").slideToggle(2100);
-        $(".hidden2").slideToggle(2100);
+        $("#par2").slideToggle(2500);
+        $(".hidden2").slideToggle(2500);
     });
     $(".click3").click(function(){
-        $("#par3").slideToggle(2100);
-        $(".hidden3").slideToggle(2100);
+        $("#par3").slideToggle(2500);
+        $(".hidden3").slideToggle(2500);
     });
     $("form#submitForm").submit(function(event){
         event.preventDefault();
