@@ -1,4 +1,4 @@
-/* .first{
+.first{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
     height: 700px;
@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
 }
-.about{
+/* .about{
     height: 300px;
 }
 .about h2{
