@@ -1,0 +1,257 @@
+/* .first{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 30px;
+    margin-bottom: 0;
+}
+.first h1{
+    font-size: 50px;
+    color: white;
+    line-height: 90px;
+}
+.first p{
+    font-size: 15px;
+    color:white;
+}
+.mouseimg{
+    padding-top:200px;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#studio{
+    display: flex;
+    justify-content: center;
+}
+.about{
+    height: 300px;
+}
+.about h2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.about p{
+    text-align: center;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.services{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    height: 450px;
+    text-align: center;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+.services h3{
+    padding-top: 100px;
+    font-weight: bolder;
+}
+.services p{
+    font-size: 20px;
+}
+.work{
+    background-size: 50px;
+    
+}
+.work h1{
+    text-align: center !important;
+    padding-top:30px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.work h2{
+    font-size: 20px;
+}
+.work p{
+    display: none;
+}
+.work img,p{
+    cursor: pointer;
+}
+.work .row{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#one{
+    margin-left:15px;
+}
+#head2{
+    margin-right: 15px;
+}
+#head3{
+    margin-right: 10px
+}
+.ip {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+.ip .row{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    margin-left:100px;
+}
+.ip img{
+    display: block;
+}
+.ip p{
+  font-family: 'Farro', sans-serif;
+  text-align: center;
+  display: none;
+  position: absolute;
+  font-size: 40px;
+  padding-top: 80px;
+  padding-left: 40px;
+
+}
+.contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    height:500px;
+    margin-top: 100px;
+    margin-left: 0;
+    background-size: cover;
+
+}
+.contact h2{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0;
+    color:white;
+}
+.contact input,textarea{
+    background: none;
+   
+}
+::placeholder{
+    color: white;
+}
+.contact textarea{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+input{
+    margin-left:300px;
+    margin-top: 40px;
+}
+#email{
+    position: relative;
+    right:200px;
+    width: 300px;
+}
+#name{
+    width: 300px;
+}
+button{
+    position: relative;
+    top:40px;
+    right:400px;
+}
+.media{
+    margin-top: 70px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: unset;
+
+}
+.footer{
+    text-align: center;
+    margin-top: 10px;
+}
+.footer p{
+    line-height: 12px;
+}
+@media screen and (max-width:800px){
+    .first{
+        height:850px;
+    }
+    .about{
+        height: 500px;
+    }
+    .work{
+        height: 500px;
+    }
+    .work .row{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact{
+        height: 700px;
+    }
+    #name{
+        width: 200px;
+        position: relative;
+        right: 200px;
+    }
+    #email{
+        width: 200px;
+        position: relative;
+        right: 200px;
+    }
+    textarea{
+        width: 300px;
+        height: 300px;
+        position: relative;
+        right: 200px;
+    }
+    button{
+        color: black;
+    }
+    .container{
+        overflow: hidden;
+    }
+    
+}
+@media screen and (max-width:300px){
+    .contact{
+        height: 700px;
+    }
+    #name{
+        width: 200px;
+        position: relative;
+        right: 200px;
+    }
+    #email{
+        width: 200px;
+        position: relative;
+        right: 200px;
+    }
+    textarea{
+        width: 300px;
+        height: 300px;
+        position: relative;
+        right: 200px;
+    }
+    button{
+        color: black;
+    }
+    .container{
+        overflow: hidden;
+    }
+}
+@media screen and (max-width:500px){
+    .container{
+        overflow: hidden;
+        margin-left: 42%;
+    }
+}
+.p{
+text-align: center;
+margin-left: 36%;
+} */
