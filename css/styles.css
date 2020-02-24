@@ -43,7 +43,6 @@
     font-size: 15px;
     margin-left: 100px;
     margin-right: 100px;
-    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
 .services{
@@ -51,7 +50,6 @@
     height: 450px;
     text-align: center;
     color: white;
-    font-family: 'Nunito', sans-serif;
 }
 .services h3{
     padding-top: 100px;
@@ -115,7 +113,6 @@
     display: block;
 }
 .ip p{
-  font-family: 'Farro', sans-serif;
   text-align: center;
   display: none;
   position: absolute;
